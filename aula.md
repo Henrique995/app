@@ -34,8 +34,9 @@ Boolean: ture, false
 
 ## Operadores
 
-Operadores de atribuição de valor
-Operadores de contatenação
+Operadores de atribuição de valor: =
+Operador de contatenação: +
+Operadores de comparação: == != <= >= < >
 
 ## Estruturas de dados:
 
@@ -62,6 +63,7 @@ arrow function / named function
 # condicionais
 
 - switch
+- if/else
 
 ## Mádulos em Node.js:
 
