@@ -62,3 +62,12 @@ arrow function / named function
 # condicionais
 
 - switch
+
+## Mádulos em Node.js:
+
+- Inportação de modulos (require, commoonJS)
+Biblioteca 'inquirer' para criar prompts intererativos
+
+## Programação assincrona e Promises:
+
+Uso de funções assincronas (async/await)
