@@ -44,7 +44,7 @@ Spread operator: ...
 ### Arrays:
 
 Uma lista que contem qualqter tipo de dado
-Metodos de array: push, [find, foreach, filter] : HOF (Higher Order Functions)
+Metodos de array: push, [find, foreach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos:
 
@@ -71,6 +71,12 @@ arrow function / named function
 
 - Inportação de modulos (require, commoonJS)
 Biblioteca 'inquirer' para criar prompts intererativos
+FS (File System)
+
+## JSON
+
+Java script object notation (.json)
+JSON.parse() JSON.stringify()
 
 ## Programação assincrona e Promises:
 
